@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Cozumo&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<h1 align="center">Hi 👋, I'm M.Sarib</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Sarib</h1>
 
 
 <h3 align="center">I'm a Full stack Developer, Web Enthusiast, a proud Computer Nerd & Dev Freak. Addicted to dev-community with great vision to change the world with open-source. Also an individual interested in Data Science. Do check-out my repo's.</h3>
