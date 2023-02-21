@@ -15,10 +15,10 @@
  - 🔭 I’m currently working on **something special**<br><br>
  - 🌱 I’m currently learning **data science**<br><br>
  - 👯 I’m looking to collaborate on **open source projects**<br><br>
- - 👨‍💻 All of my projects are available at [https://github.com/Cozumo?tab=repositories](https://github.com/Cozumo?tab=repositories)<br><br>
+ - 👨‍💻 All of my projects are available at [![Github](https://github.com/Cozumo?tab=repositories)<br><br>
  - 💬 Ask me about **reactjs, nodejs, pandas**<br><br>
  - 📫 How to reach me **saribyounus66@gmail.com**<br><br>
- - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-sarib-927103214/](https://www.linkedin.com/in/muhammad-sarib-927103214/)<br><br>
+ - 📄 Know about my experiences [![LinkedIn](https://www.linkedin.com/in/muhammad-sarib-927103214/)<br><br>
  - ⚡ Fun fact **Why did the software coder enjoy pressing the F5 key? It was refreshing.**
 
 
