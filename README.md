@@ -8,6 +8,7 @@
 <br>
 <br>
 
+
 # 💫 About Me:
 
 <br>
@@ -22,7 +23,6 @@
  - ⚡ Fun fact **Why did the software coder enjoy pressing the F5 key? It was refreshing.**
 
 
-<br>
 <br>
 
 # 🌐 Socials:
