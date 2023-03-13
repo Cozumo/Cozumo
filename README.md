@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Cozumo&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<h1>Hi👋, I'm Muhammad Sarib</h1>
+<h1 align="center">Hi👋, I'm Muhammad Sarib</h1>
 
 
 <h3>I'm a Full stack Developer, Web Enthusiast, a proud Computer Nerd & Dev Freak. Addicted to dev-community with great vision to change the world with open-source. Also an individual interested in Data Science. Do check-out my repo's.</h3>
@@ -20,12 +20,6 @@
  - 📫 How to reach me **saribyounus66@gmail.com**<br><br>
  - 📄 Know about my experiences [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sarib-927103214/)<br><br>
  - ⚡ Fun fact **Why did the software coder enjoy pressing the F5 key? It was refreshing.**
-
-
-<br>
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sarib-927103214/) 
 
 
 <br>
