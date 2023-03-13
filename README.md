@@ -3,7 +3,7 @@
 <h1 align="center">Hi👋, I'm Muhammad Sarib</h1>
 
 
-<h4>I'm a Full stack Developer, Web Enthusiast, a proud Computer Nerd & Dev Freak. Addicted to dev-community with great vision to change the world with open-source. Also an individual interested in Data Science. Do check-out my repo's.</h4>
+<h4>I'm a Full stack Developer, Data Scientist, Web Enthusiast, a proud Computer Nerd & Dev Freak. Addicted to dev-community with great vision to change the world with open-source. Also an individual interested in Data Science. Do check-out my repo's.</h4>
 
 <br>
 
