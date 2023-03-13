@@ -14,7 +14,7 @@
  - 🌱 I’m currently learning **data science**<br>
  - 👯 I’m looking to collaborate on **open source projects**<br>
  - 👨‍💻 All of my projects are available at [Github/repos](https://github.com/Cozumo?tab=repositories)<br>
- - 💬 Ask me about **reactjs, nodejs, pandas**<br>
+ - 💬 Ask me about **JavaScript Development & DataScience**<br>
  - 📫 How to reach me **saribyounus66@gmail.com**<br>
  - 📄 Know about my experiences [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-sarib-927103214/)<br>
  - ⚡ Fun fact **Why did the software coder enjoy pressing the F5 key? It was refreshing.**
