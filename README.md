@@ -30,10 +30,15 @@
 
 <br>
 
-<h3>📊 GitHub Stats: </h3>
 
+<details>
+<summary><h3>📊 GitHub Stats: </h3></summary>
+ 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cozumo&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cozumo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+ 
+</details>
+
 
 <br>
 <br>
